@@ -107,7 +107,3 @@ This project was created while working on a second-hand marketplace platform and
 ## Disclaimer
 
 This project is intended for educational and development purposes. Website terms of service and robots.txt policies should be reviewed before running automated data collection against third-party websites.
-
-## License
-
-MIT License
